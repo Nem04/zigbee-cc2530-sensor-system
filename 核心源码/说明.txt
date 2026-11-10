@@ -1,0 +1,3 @@
+endpoint为终端源码
+coodinate为协调器源码
+其中GenericApp.c为核心代码

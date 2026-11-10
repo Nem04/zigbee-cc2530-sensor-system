@@ -1,0 +1,17 @@
+* text=auto
+
+*.pdf binary
+*.exe binary
+*.lib binary
+*.pfx binary
+
+*.c text
+*.h text
+*.cs text
+*.csproj text
+*.sln text
+*.ewp text
+*.ewd text
+*.eww text
+*.xcl text
+*.cfg text

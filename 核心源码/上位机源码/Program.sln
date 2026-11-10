@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "zigbee-wifi\Program.csproj", "{EFC438A3-DDC7-4DA4-A101-88A447C6725F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC438A3-DDC7-4DA4-A101-88A447C6725F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC438A3-DDC7-4DA4-A101-88A447C6725F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC438A3-DDC7-4DA4-A101-88A447C6725F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC438A3-DDC7-4DA4-A101-88A447C6725F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298938A9-E2BB-4DD9-8B3F-4597CC5FFF67}
+	EndGlobalSection
+EndGlobal

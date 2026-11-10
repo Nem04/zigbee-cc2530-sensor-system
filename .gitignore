@@ -1,0 +1,44 @@
+# Visual Studio / VS Code user state
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsidx
+*.cache
+
+# .NET build output (only the Windows host project)
+核心源码/上位机源码/zigbee-wifi/[Bb]in/
+核心源码/上位机源码/zigbee-wifi/[Oo]bj/
+*.pdb
+*.application
+
+# IAR build output and debugger state
+**/List/
+**/Obj/
+**/Exe/
+**/settings/*.dbgdt
+**/settings/*.wsdt
+*Backup of *
+*.bak
+*.dep
+*.dni
+*.ewt
+*.pbi
+*.r51
+*.s51
+*.lst
+*.map
+*.d51
+*.pbd
+
+# Signing material and temporary files
+*.pfx
+*.tmp
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
